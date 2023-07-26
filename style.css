@@ -1,3 +1,12 @@
+:root{
+    --cor-principal: #ffffff;
+    --cor-secundaria: #000000;
+    --cor-escrita: #e0e0e0;
+    
+
+}
+
+
 {
     margin: 0;
     pedding: 0;
